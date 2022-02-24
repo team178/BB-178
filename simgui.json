@@ -1,0 +1,15 @@
+{
+  "NTProvider": {
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/LiveWindow/DriveTrain": "Subsystem",
+      "/LiveWindow/DriveTrain/Drive": "DifferentialDrive",
+      "/LiveWindow/Ungrouped/Scheduler": "Scheduler",
+      "/Shuffleboard/Drivebase/Drive Axis 1": "String Chooser",
+      "/Shuffleboard/Drivebase/Drive Axis 2": "String Chooser",
+      "/Shuffleboard/Drivebase/Drive Commands/Arcade Drive": "Command",
+      "/Shuffleboard/Drivebase/Drive Commands/Tank Drive": "Command",
+      "/Shuffleboard/Drivebase/Drive Routine": "String Chooser"
+    }
+  }
+}
